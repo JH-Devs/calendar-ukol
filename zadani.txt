@@ -1,0 +1,9 @@
+Úkolem je naprogramování kalendáře
+
+Od splnění úkolu očekáváme plnou funkčnost a logiku kalendáře, responziv, případně hra s efekty.
+
+Kalendář by měl fungovat tak, že umí správně zobrazovat dny v měsících a následně lze v kalendáři listovat napříč měsíci.
+
+Vytvořit 1 testovací akci v libovolném dni (stačí testovací data).
+
+Preferuje naprogramování v PHP.
